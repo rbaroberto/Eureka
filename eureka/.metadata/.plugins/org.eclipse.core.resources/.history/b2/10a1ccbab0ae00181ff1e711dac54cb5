@@ -1,0 +1,5 @@
+package com.in28minutes.springboot.microservice.example.currencyconversion.springbootmicroservicecurrencyconversion.controller;
+
+public class CurrencyConversionController {
+
+}
