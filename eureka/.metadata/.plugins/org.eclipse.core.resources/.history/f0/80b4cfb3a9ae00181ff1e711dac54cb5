@@ -1,5 +1,0 @@
-package com.in28minutes.springboot.microservice.example.forex.springbootmicroserviceforexservice.entity;
-
-public class ExchangeValue {
-
-}
